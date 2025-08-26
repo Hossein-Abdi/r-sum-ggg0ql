@@ -25,7 +25,7 @@ role: Director of Cloud Infrastructure
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: The University of Manchester
-    url: '[https://www.example.com/](https://www.manchester.ac.uk/)'
+    url: 'https://www.manchester.ac.uk/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: 
   - icon: brands/github
-    url: '[https://github.com/gcushen](https://github.com/Hossein-Abdi)'
+    url: 'https://github.com/Hossein-Abdi'
   - icon: brands/linkedin
-    url: '[https://www.linkedin.com/](https://www.linkedin.com/in/hossein-abdi-b7389a116/)'
+    url: 'https://www.linkedin.com/in/hossein-abdi-b7389a116/'
   - icon: brands/instagram
     url: 
 
