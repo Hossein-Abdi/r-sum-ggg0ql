@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: 
   - icon: brands/github
-    url: [https://github.com/gcushen](https://github.com/Hossein-Abdi)
+    url: '[https://github.com/gcushen](https://github.com/Hossein-Abdi)'
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/hossein-abdi-b7389a116/)
+    url: '[https://www.linkedin.com/](https://www.linkedin.com/in/hossein-abdi-b7389a116/)'
   - icon: brands/instagram
     url: 
 
